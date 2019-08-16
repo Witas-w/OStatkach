@@ -35,16 +35,15 @@
    
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Dragon%2C_Gdynia%2C_20090705%2C_3.jpg">
             <p><strong>Dragon</strong>- Statek wycieczkowy. Stylizowany na XII wieczny galeon. Zrobiony z twardego drewna dębowego. Miał wystąpić w filmie <em>Piraci z Karaibów</em>, ale miał tam zostać spalony. Dlatego armatorzy Dragona nie zgodzili się. Na statku można spotkać śmiesznego pirata Barbarosse.</p>
-             <img src="https://s6.ifotos.pl/img/IMG6219JP_qswwpha.jpg">
-            <p>Info</p>
-             <img src="https://s6.ifotos.pl/img/IMG6219JP_qswwpha.jpg">
-            <p>O statku</p>
-             <img src="https://s6.ifotos.pl/img/IMG6219JP_qswwpha.jpg">
-            <p>coś</p>
-             <img src="https://s6.ifotos.pl/img/IMG6219JP_qswwpha.jpg">
-            <p>information</p>
-             <img src="https://s6.ifotos.pl/img/IMG6219JP_qswwpha.jpg">
-            <p>info</p>
+             <p>Brak zdjęć</p>
+            <p><strong>Orkan SAR</strong>- Statek ratowniczy. Stacjonujący w marinie w porcie Ustka. Jest to najnowszy model statku ratowniczego w Polsce. Jest on własnością Stacji ratownictwa morskiego (SAR).</p>
+             <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Statek_Kasieńka_II_Łeba.JPG">
+            <p><strong>Kasieńka-</strong> Statek pasażerski należący do firmy <em>Galeony</em>. Łódź stacjonuje przy nabrzeżu po wschodniej stronie.</p>
+             <p>Brak zdjęć</p>
+            <p><strong>Saba-</strong>Statek pasażerski należący do firmy <em>Galeony</em>. Łódź stacjonuje przy nabrzeżu po wschodniej stronie.</p>
+             <p>Brak zdjęć</p>
+            <p><strong>Sun star-</strong> Statek wycieczkowy zbudowany w całości z drewna. Należy do firmy <em>Twoje rejsy</em>. Stacjonuje on po stronie wschodniej</p>
+             
           
         </div>
             
