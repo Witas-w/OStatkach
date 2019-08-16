@@ -33,7 +33,7 @@
    
    <h1>Ta strona powstała 16.08.2019r. o godzinie 21:51, więc jest dopiero edytowana</h1>
    
-            <img src="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Dragon%2C_Gdynia%2C_20090705%2C_3.jpg">
             <p><strong>Dragon</strong>- Statek wycieczkowy. Stylizowany na XII wieczny galeon. Zrobiony z twardego drewna dębowego. Miał wystąpić w filmie <em>Piraci z Karaibów</em>, ale miał tam zostać spalony. Dlatego armatorzy Dragona nie zgodzili się. Na statku można spotkać śmiesznego pirata Barbarosse.</p>
              <img src="https://s6.ifotos.pl/img/IMG6219JP_qswwpha.jpg">
             <p>Info</p>
