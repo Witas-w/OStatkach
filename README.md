@@ -31,7 +31,7 @@
       
    <h2>O Statkach</h2>
    
-   <h1>Ta strona powstała 16.08.2019r. o godzinie 21:51, więc jest dopier edytowana</h1>
+   <h1>Ta strona powstała 16.08.2019r. o godzinie 21:51, więc jest dopiero edytowana</h1>
    
             <img src="https://s6.ifotos.pl/img/IMG6219JP_qswwpha.jpg">
             <p>informacje</p>
