@@ -41,7 +41,7 @@
 <img src="https://s6.ifotos.pl/img/EAA05A74-_qswwqph.jpg">
 
 <p><strong>Kasieńka-</strong> Statek pasażerski należący do firmy <em>Galeony</em>. Łódź stacjonuje przy nabrzeżu po wschodniej stronie.</p>
-<img src="https://s6.ifotos.pl/img/EE6A9C4E-_qswshna.jp">
+<img src="https://s6.ifotos.pl/img/EE6A9C4E-_qswshna.jpg">
             <p><strong>Saba-</strong>Statek pasażerski należący do firmy <em>Galeony</em>. Łódź stacjonuje przy nabrzeżu po wschodniej stronie.</p>
  <img src="https://s6.ifotos.pl/img/89E860DE-_qswsher.jpg">
             <p><strong>Sun star-</strong> Statek wycieczkowy zbudowany w całości z drewna. Należy do firmy <em>Twoje rejsy</em>. Stacjonuje on po stronie wschodniej</p>
