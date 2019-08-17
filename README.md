@@ -36,7 +36,7 @@
 <img src="https://s6.ifotos.pl/img/F9EA5D7C-_qswshep.jpg">
             <p><strong>Orkan SAR</strong>- Statek ratowniczy. Stacjonujący w marinie w porcie Ustka. Jest to najnowszy model statku ratowniczego w Polsce. Jest on własnością Stacji ratownictwa morskiego (SAR).</p>
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Statek_Kasieńka_II_Łeba.JPG">
+
 
 <img src="https://s6.ifotos.pl/img/EAA05A74-_qswwqph.jpg">
 
